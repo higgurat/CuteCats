@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cute Cats</string>
+
+    <string name="network_error">Network error</string>
+</resources>
